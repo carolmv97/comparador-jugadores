@@ -1,0 +1,17 @@
+{
+  "name": "padel-prob",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "predict": "node predict.js",
+    "debug": "node debug.js",
+    "stats": "node stats.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
+  }
+}

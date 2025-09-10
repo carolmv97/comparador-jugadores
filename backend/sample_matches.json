@@ -1,0 +1,122 @@
+[
+  {
+    "id": 187,
+    "self": "/api/matches/187",
+    "name": "Aguirre/Alfonso - Cabeza/Garcia",
+    "round": 1,
+    "index": 0,
+    "score": [
+      {
+        "team_1": "5",
+        "team_2": "7"
+      },
+      {
+        "team_1": "6",
+        "team_2": "4"
+      },
+      {
+        "team_1": "3",
+        "team_2": "6"
+      }
+    ],
+    "played_at": "2025-03-02",
+    "status": "finished",
+    "winner": "team_2",
+    "category": "men",
+    "duration": null,
+    "court": null,
+    "players": {
+      "team_1": [
+        {
+          "id": 17,
+          "self": "/api/players/17",
+          "name": "Tolito Aguirre",
+          "side": "drive"
+        },
+        {
+          "id": 18,
+          "self": "/api/players/18",
+          "name": "Gonzalo Alfonso",
+          "side": "backhand"
+        }
+      ],
+      "team_2": [
+        {
+          "id": 148,
+          "self": "/api/players/148",
+          "name": "Francisco Cabeza Teres",
+          "side": "backhand"
+        },
+        {
+          "id": 149,
+          "self": "/api/players/149",
+          "name": "Diego Garcia Garcia",
+          "side": "drive"
+        }
+      ]
+    },
+    "connections": {
+      "stats": "/api/matches/187/stats",
+      "live": "/api/matches/187/live",
+      "tournament": "/api/tournaments/319"
+    }
+  },
+  {
+    "id": 185,
+    "self": "/api/matches/185",
+    "name": "Romera/Cremona - Aguirre/Alfonso",
+    "round": 2,
+    "index": 0,
+    "score": [
+      {
+        "team_1": "4",
+        "team_2": "6"
+      },
+      {
+        "team_1": "6",
+        "team_2": "7"
+      }
+    ],
+    "played_at": "2025-03-01",
+    "status": "finished",
+    "winner": "team_2",
+    "category": "men",
+    "duration": null,
+    "court": null,
+    "players": {
+      "team_1": [
+        {
+          "id": 138,
+          "self": "/api/players/138",
+          "name": "Jaume Romera Barcelo",
+          "side": null
+        },
+        {
+          "id": 139,
+          "self": "/api/players/139",
+          "name": "Simone Cremona",
+          "side": null
+        }
+      ],
+      "team_2": [
+        {
+          "id": 17,
+          "self": "/api/players/17",
+          "name": "Tolito Aguirre",
+          "side": "drive"
+        },
+        {
+          "id": 18,
+          "self": "/api/players/18",
+          "name": "Gonzalo Alfonso",
+          "side": "backhand"
+        }
+      ]
+    },
+    "connections": {
+      "stats": "/api/matches/185/stats",
+      "live": "/api/matches/185/live",
+      "tournament": "/api/tournaments/319"
+    }
+  }
+]
